@@ -370,10 +370,6 @@ export const Contact: React.FC = () => {
                   <span>Send</span>
                 </button>
 
-                <p className="text-[11px] text-center text-[#9f95bf]">
-                  Launches your default email program with your pre-filled inquiry to {personalInfo.email}.
-                </p>
-
               </form>
 
             </div>
